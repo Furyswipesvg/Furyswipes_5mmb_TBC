@@ -1,0 +1,20 @@
+## Interface: 20400
+## Version: 1.7.0
+## Title: Gladdy |cffff7f7f-MrgUI-|r
+## Notes: Arena enemy unit frames
+## Author: Miraage, Midna
+## X-Email: miraage.wow@gmail.com
+## X-Credits: Authors of Proximo, Gladius and Gladminish!
+## SavedVariablesPerCharacter: GladdyDB
+
+embeds.xml
+
+locale\enUS.lua
+locale\ruRU.lua
+
+Gladdy.lua
+drlist.lua
+speclist.lua
+frame.lua
+auralist.lua
+options.lua
